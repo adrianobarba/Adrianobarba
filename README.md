@@ -16,14 +16,14 @@
   <img align="center" alt="Adriano-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Adriano-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adriano-Oracle" height='30' width='40' src="https://devicon-website.vercel.app/api/oracle/original.svg"></img>
   <img align="center" alt="Adriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adriano-Csharp" height='30' width='40' src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>
-  <img align="center" alt="Adriano-Oracle" height='30' width='40' src="https://devicon-website.vercel.app/api/oracle/original.svg"></img>
   <img align="center" alt="Adriano-Php" height='30' width='40' src="https://devicon-website.vercel.app/api/php/original.svg"></img>  
-  <img align="center" alt="Adriano-Tortoise" height='30' width='40'' src="https://devicon-website.vercel.app/api/tortoisegit/original.svg"></img>
+  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adriano-Mysql" height='30' width='40' src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>    
+  <img align="center" alt="Adriano-Csharp" height='30' width='40' src="https://devicon-website.vercel.app/api/csharp/original.svg"></img>   
+  <img align="center" alt="Adriano-Tortoise" height='30' width='40'' src="https://devicon-website.vercel.app/api/tortoisegit/original.svg"></img>
   <img align="center" alt="Adriano-Github" height='30' width='40' src="https://devicon-website.vercel.app/api/github/original.svg"></img>
   <img align="center" alt="Adriano-Git" height='30' width='40' src="https://devicon-website.vercel.app/api/git/original-wordmark.svg"></img>
  
